@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+  
+    <node pkg="lidar_depth_calibration" name="load_data" type="load_data" output="screen"></node>
+    <rosparam file="$(find lidar_depth_calibration)/config/load_data_config.yaml"/>
+
+</launch>
+

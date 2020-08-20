@@ -1,0 +1,3 @@
+input_pcd_path: /home/he/Code/ROS/lidar_depth_calibration_ws/src/lidar_depth_calibration/data/
+
+voxel_size: 0.09

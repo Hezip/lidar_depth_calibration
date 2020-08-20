@@ -1,0 +1,9 @@
+input_bag_path: /home/he/Data/zed_calibration/6.bag
+
+output_path: /home/he/Code/ROS/lidar_depth_calibration_ws/src/lidar_depth_calibration/data/
+
+intrinsic_path: /home/he/Code/ROS/lidar_depth_calibration_ws/src/lidar_depth_calibration/data/
+
+extrinsic_path: /home/he/Code/ROS/lidar_depth_calibration_ws/src/lidar_depth_calibration/data/
+
+num_lidar_points: 50

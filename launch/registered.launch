@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+    <node pkg="lidar_depth_calibration" name="registered" type="registered" output="screen"></node>
+    <rosparam file="$(find lidar_depth_calibration)/config/registered_config.yaml"/>
+</launch>
+
